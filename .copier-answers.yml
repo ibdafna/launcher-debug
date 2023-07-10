@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.0.7
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: idafna@netflix.com
+author_name: Itay Dafna
+has_binder: false
+has_settings: true
+kind: frontend
+labextension_name: nflx-launcher
+project_short_description: A JupyterLab extension.
+python_name: nflx_launcher
+repository: ''
+test: true
+
